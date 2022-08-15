@@ -1,2 +1,2 @@
 # Parser
-This repository finds all the news from the site habr.com
+In this repository you can find all the links to news from the site habr.com
